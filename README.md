@@ -7,7 +7,7 @@
 
 ## Debug:
 - create Run Config as Follow:
--- MainClass: com.eteks.sweethome3d.SweetHome3D
--- WorkingDir: .
--- WorkingModule: sweethome-plugin
--- JRE: 1.6 (min)
+    - MainClass: com.eteks.sweethome3d.SweetHome3D
+    - WorkingDir: .
+    - WorkingModule: sweethome-plugin
+    - JRE: 1.6 (min)
