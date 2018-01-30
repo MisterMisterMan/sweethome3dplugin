@@ -1,4 +1,4 @@
-package com.eteks.sweethome3d.plugin.wallarea;
+package com.eteks.sweethome3d.plugin.wallarea.resource;
 
 import java.util.Locale;
 import java.util.ResourceBundle;

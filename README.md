@@ -3,7 +3,7 @@
 ## Usage:
 - import pom.xml
 - run 'mvn clean install'
-- sudo cp ./target/sweethome-plugin-1.0-SNAPSHOT.jar <<customInstallPath>>/eTeks/Sweet\ Home\ 3D/plugins/sweethome-plugin-1.0-SNAPSHOT.sh3p
+- sudo cp ./target/sweethome-plugin-1.0-SNAPSHOT.jar ./target/sweethome-plugin-1.0-SNAPSHOT.sh3p
 
 ## Debug:
 - create Run Config as Follow:
